@@ -7,7 +7,7 @@ export const Onboarding = () => {
             <div className="frame-wrapper">
                 <div className="frame">
                     <div className="LOGO-wrapper">
-                        <img className="LOGO" alt="Logo" src="../LOGO.svg" />
+                        <img className="LOGO" alt="Logo" src="LOGO.svg" />
                     </div>
                     <div className="div">
                         <div className="group">
@@ -39,4 +39,3 @@ export const Onboarding = () => {
         </div>
     );
 };
-export default Onboarding;
