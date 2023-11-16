@@ -12,13 +12,13 @@ function App() {
     return (
         <Router>
             <Routes>
-                <Route path="/onboarding" component={Onboarding} />
-                <Route path="/login" component={Login} />
-                <Route path="/register" component={Register} />
-                <Route path="/reset" component={Reset} />
-                <Route path="/documents" component={Documents} />
-                <Route path="/profile" component={Profile} />
-                <Route path="/pizarra" component={Pizarra} />
+                <Route path="/onboarding" element={<Onboarding />} />
+                <Route path="/login" element={<Login />} />
+                <Route path="/register" element={<Register />} />
+                <Route path="/reset" element={<Reset />} />
+                <Route path="/documents" element={<Documents />} />
+                <Route path="/profile" element={<Profile />} />
+                <Route path="/pizarra" element={<Pizarra />} />
             </Routes>
         </Router>
     );

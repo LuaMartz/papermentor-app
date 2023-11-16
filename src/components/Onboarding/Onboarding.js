@@ -7,12 +7,12 @@ export const Onboarding = () => {
             <div className="frame-wrapper">
                 <div className="frame">
                     <div className="LOGO-wrapper">
-                        <img className="LOGO" alt="Logo" src="../assets/LOGO.svg" />
+                        <img className="LOGO" alt="Logo" src="../../assets/LOGO.svg" />
                     </div>
                     <div className="div">
                         <div className="group">
                             <div className="overlap-group">
-                                <img className="vector" alt="Vector" src="../assets/vector.svg" />
+                                <img className="vector" alt="Vector" src="../../assets/Vector.svg" />
                                 <div className="illustration" />
                             </div>
                         </div>
@@ -27,15 +27,19 @@ export const Onboarding = () => {
                                 </p>
                             </div>
                             <div className="frame-4">
-                                <div className="rectangle" />
-                                <div className="div-wrapper">
-                                    <div className="text-wrapper-2">Comenzar</div>
-                                </div>
+                                <button className="rectangle" onClick={() => { window.location.href = "/login"; }}>
+                                    <div className="div-wrapper">
+                                        {/* Utiliza el componente Link para redirigir al usuario */}
+                                        <div className="text-wrapper-2">Comenzar</div>
+                                    </div>
+                                </button>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
+        </div >
     );
 };
+
+export default Onboarding;

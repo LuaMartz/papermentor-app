@@ -1,9 +1,9 @@
 import React from "react";
-import "./Pizarra.css";
+import "./Documents.css";
 
-export const Pizarra = () => {
+export const Documents = () => {
     return (
-        <div className="pizarra">
+        <div className="documents">
             <div className="frame-wrapper">
                 <div className="frame">
                     <div className="menu">
@@ -45,7 +45,7 @@ export const Pizarra = () => {
                     </div>
                     <div className="frame-2">
                         <div className="title">
-                            <div className="text-wrapper-3">Pizarra del Escritor Experto</div>
+                            <div className="text-wrapper-3">Explorar Documentos</div>
                         </div>
                         <div className="frame-3">
                             <div className="frame-4">
@@ -102,7 +102,7 @@ export const Pizarra = () => {
                                         <div className="frame-21">
                                             <div className="rectangle-2" />
                                             <div className="frame-22">
-                                                <div className="text-wrapper-6">Comentar</div>
+                                                <div className="text-wrapper-6">Leer Más</div>
                                             </div>
                                         </div>
                                         <div className="frame-23">
@@ -111,25 +111,11 @@ export const Pizarra = () => {
                                                 <div className="text-wrapper-7">Pendiente Para Revisión</div>
                                             </div>
                                         </div>
-                                        <div className="frame-25">
-                                            <div className="frame-26">
-                                                <div className="rectangle" />
-                                                <div className="frame-27">
-                                                    <div className="text-wrapper-6">Aceptar</div>
-                                                </div>
-                                            </div>
-                                            <div className="frame-26">
-                                                <div className="rectangle-4" />
-                                                <div className="frame-28">
-                                                    <div className="text-wrapper-6">Rechazar</div>
-                                                </div>
-                                            </div>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
-                            <div className="frame-12">
-                                <div className="frame-13">
+                            <div className="frame-25">
+                                <div className="frame-26">
                                     <div className="frame-14">
                                         <div className="frame-15">
                                             <div className="frame-16">
@@ -157,7 +143,7 @@ export const Pizarra = () => {
                                         <div className="frame-21">
                                             <div className="rectangle-2" />
                                             <div className="frame-22">
-                                                <div className="text-wrapper-6">Comentar</div>
+                                                <div className="text-wrapper-6">Leer Más</div>
                                             </div>
                                         </div>
                                         <div className="frame-23">
@@ -166,25 +152,11 @@ export const Pizarra = () => {
                                                 <div className="text-wrapper-7">Pendiente Para Revisión</div>
                                             </div>
                                         </div>
-                                        <div className="frame-25">
-                                            <div className="frame-26">
-                                                <div className="rectangle" />
-                                                <div className="frame-27">
-                                                    <div className="text-wrapper-6">Aceptar</div>
-                                                </div>
-                                            </div>
-                                            <div className="frame-26">
-                                                <div className="rectangle-4" />
-                                                <div className="frame-28">
-                                                    <div className="text-wrapper-6">Rechazar</div>
-                                                </div>
-                                            </div>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
-                            <div className="frame-12">
-                                <div className="frame-13">
+                            <div className="frame-25">
+                                <div className="frame-26">
                                     <div className="frame-14">
                                         <div className="frame-15">
                                             <div className="frame-16">
@@ -212,7 +184,7 @@ export const Pizarra = () => {
                                         <div className="frame-21">
                                             <div className="rectangle-2" />
                                             <div className="frame-22">
-                                                <div className="text-wrapper-6">Comentar</div>
+                                                <div className="text-wrapper-6">Leer Más</div>
                                             </div>
                                         </div>
                                         <div className="frame-23">
@@ -221,25 +193,11 @@ export const Pizarra = () => {
                                                 <div className="text-wrapper-7">Pendiente Para Revisión</div>
                                             </div>
                                         </div>
-                                        <div className="frame-25">
-                                            <div className="frame-26">
-                                                <div className="rectangle" />
-                                                <div className="frame-27">
-                                                    <div className="text-wrapper-6">Aceptar</div>
-                                                </div>
-                                            </div>
-                                            <div className="frame-26">
-                                                <div className="rectangle-4" />
-                                                <div className="frame-28">
-                                                    <div className="text-wrapper-6">Rechazar</div>
-                                                </div>
-                                            </div>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
-                            <div className="frame-12">
-                                <div className="frame-13">
+                            <div className="frame-25">
+                                <div className="frame-26">
                                     <div className="frame-14">
                                         <div className="frame-15">
                                             <div className="frame-16">
@@ -267,7 +225,7 @@ export const Pizarra = () => {
                                         <div className="frame-21">
                                             <div className="rectangle-2" />
                                             <div className="frame-22">
-                                                <div className="text-wrapper-6">Comentar</div>
+                                                <div className="text-wrapper-6">Leer Más</div>
                                             </div>
                                         </div>
                                         <div className="frame-23">
@@ -276,25 +234,11 @@ export const Pizarra = () => {
                                                 <div className="text-wrapper-7">Pendiente Para Revisión</div>
                                             </div>
                                         </div>
-                                        <div className="frame-25">
-                                            <div className="frame-26">
-                                                <div className="rectangle" />
-                                                <div className="frame-27">
-                                                    <div className="text-wrapper-6">Aceptar</div>
-                                                </div>
-                                            </div>
-                                            <div className="frame-26">
-                                                <div className="rectangle-4" />
-                                                <div className="frame-28">
-                                                    <div className="text-wrapper-6">Rechazar</div>
-                                                </div>
-                                            </div>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
-                            <div className="frame-12">
-                                <div className="frame-13">
+                            <div className="frame-25">
+                                <div className="frame-26">
                                     <div className="frame-14">
                                         <div className="frame-15">
                                             <div className="frame-16">
@@ -322,7 +266,7 @@ export const Pizarra = () => {
                                         <div className="frame-21">
                                             <div className="rectangle-2" />
                                             <div className="frame-22">
-                                                <div className="text-wrapper-6">Comentar</div>
+                                                <div className="text-wrapper-6">Leer Más</div>
                                             </div>
                                         </div>
                                         <div className="frame-23">
@@ -331,25 +275,11 @@ export const Pizarra = () => {
                                                 <div className="text-wrapper-7">Pendiente Para Revisión</div>
                                             </div>
                                         </div>
-                                        <div className="frame-25">
-                                            <div className="frame-26">
-                                                <div className="rectangle" />
-                                                <div className="frame-27">
-                                                    <div className="text-wrapper-6">Aceptar</div>
-                                                </div>
-                                            </div>
-                                            <div className="frame-26">
-                                                <div className="rectangle-4" />
-                                                <div className="frame-28">
-                                                    <div className="text-wrapper-6">Rechazar</div>
-                                                </div>
-                                            </div>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
-                            <div className="frame-12">
-                                <div className="frame-13">
+                            <div className="frame-25">
+                                <div className="frame-26">
                                     <div className="frame-14">
                                         <div className="frame-15">
                                             <div className="frame-16">
@@ -377,7 +307,7 @@ export const Pizarra = () => {
                                         <div className="frame-21">
                                             <div className="rectangle-2" />
                                             <div className="frame-22">
-                                                <div className="text-wrapper-6">Comentar</div>
+                                                <div className="text-wrapper-6">Leer Más</div>
                                             </div>
                                         </div>
                                         <div className="frame-23">
@@ -386,25 +316,11 @@ export const Pizarra = () => {
                                                 <div className="text-wrapper-7">Pendiente Para Revisión</div>
                                             </div>
                                         </div>
-                                        <div className="frame-25">
-                                            <div className="frame-26">
-                                                <div className="rectangle" />
-                                                <div className="frame-27">
-                                                    <div className="text-wrapper-6">Aceptar</div>
-                                                </div>
-                                            </div>
-                                            <div className="frame-26">
-                                                <div className="rectangle-4" />
-                                                <div className="frame-28">
-                                                    <div className="text-wrapper-6">Rechazar</div>
-                                                </div>
-                                            </div>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
-                            <div className="frame-12">
-                                <div className="frame-13">
+                            <div className="frame-25">
+                                <div className="frame-26">
                                     <div className="frame-14">
                                         <div className="frame-15">
                                             <div className="frame-16">
@@ -432,7 +348,7 @@ export const Pizarra = () => {
                                         <div className="frame-21">
                                             <div className="rectangle-2" />
                                             <div className="frame-22">
-                                                <div className="text-wrapper-6">Comentar</div>
+                                                <div className="text-wrapper-6">Leer Más</div>
                                             </div>
                                         </div>
                                         <div className="frame-23">
@@ -441,25 +357,11 @@ export const Pizarra = () => {
                                                 <div className="text-wrapper-7">Pendiente Para Revisión</div>
                                             </div>
                                         </div>
-                                        <div className="frame-25">
-                                            <div className="frame-26">
-                                                <div className="rectangle" />
-                                                <div className="frame-27">
-                                                    <div className="text-wrapper-6">Aceptar</div>
-                                                </div>
-                                            </div>
-                                            <div className="frame-26">
-                                                <div className="rectangle-4" />
-                                                <div className="frame-28">
-                                                    <div className="text-wrapper-6">Rechazar</div>
-                                                </div>
-                                            </div>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
-                            <div className="frame-12">
-                                <div className="frame-13">
+                            <div className="frame-25">
+                                <div className="frame-26">
                                     <div className="frame-14">
                                         <div className="frame-15">
                                             <div className="frame-16">
@@ -487,27 +389,13 @@ export const Pizarra = () => {
                                         <div className="frame-21">
                                             <div className="rectangle-2" />
                                             <div className="frame-22">
-                                                <div className="text-wrapper-6">Comentar</div>
+                                                <div className="text-wrapper-6">Leer Más</div>
                                             </div>
                                         </div>
                                         <div className="frame-23">
                                             <div className="rectangle-3" />
                                             <div className="frame-24">
                                                 <div className="text-wrapper-7">Pendiente Para Revisión</div>
-                                            </div>
-                                        </div>
-                                        <div className="frame-25">
-                                            <div className="frame-26">
-                                                <div className="rectangle" />
-                                                <div className="frame-27">
-                                                    <div className="text-wrapper-6">Aceptar</div>
-                                                </div>
-                                            </div>
-                                            <div className="frame-26">
-                                                <div className="rectangle-4" />
-                                                <div className="frame-28">
-                                                    <div className="text-wrapper-6">Rechazar</div>
-                                                </div>
                                             </div>
                                         </div>
                                     </div>
@@ -520,3 +408,4 @@ export const Pizarra = () => {
         </div>
     );
 };
+export default Documents;

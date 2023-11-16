@@ -1,9 +1,9 @@
 import React from "react";
-import "./Documents.css";
+import "./Pizarra.css";
 
-export const Documents = () => {
+export const Pizarra = () => {
     return (
-        <div className="documents">
+        <div className="pizarra">
             <div className="frame-wrapper">
                 <div className="frame">
                     <div className="menu">
@@ -45,7 +45,7 @@ export const Documents = () => {
                     </div>
                     <div className="frame-2">
                         <div className="title">
-                            <div className="text-wrapper-3">Explorar Documentos</div>
+                            <div className="text-wrapper-3">Pizarra del Escritor Experto</div>
                         </div>
                         <div className="frame-3">
                             <div className="frame-4">
@@ -102,7 +102,7 @@ export const Documents = () => {
                                         <div className="frame-21">
                                             <div className="rectangle-2" />
                                             <div className="frame-22">
-                                                <div className="text-wrapper-6">Leer Más</div>
+                                                <div className="text-wrapper-6">Comentar</div>
                                             </div>
                                         </div>
                                         <div className="frame-23">
@@ -111,11 +111,25 @@ export const Documents = () => {
                                                 <div className="text-wrapper-7">Pendiente Para Revisión</div>
                                             </div>
                                         </div>
+                                        <div className="frame-25">
+                                            <div className="frame-26">
+                                                <div className="rectangle" />
+                                                <div className="frame-27">
+                                                    <div className="text-wrapper-6">Aceptar</div>
+                                                </div>
+                                            </div>
+                                            <div className="frame-26">
+                                                <div className="rectangle-4" />
+                                                <div className="frame-28">
+                                                    <div className="text-wrapper-6">Rechazar</div>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                            <div className="frame-25">
-                                <div className="frame-26">
+                            <div className="frame-12">
+                                <div className="frame-13">
                                     <div className="frame-14">
                                         <div className="frame-15">
                                             <div className="frame-16">
@@ -143,7 +157,7 @@ export const Documents = () => {
                                         <div className="frame-21">
                                             <div className="rectangle-2" />
                                             <div className="frame-22">
-                                                <div className="text-wrapper-6">Leer Más</div>
+                                                <div className="text-wrapper-6">Comentar</div>
                                             </div>
                                         </div>
                                         <div className="frame-23">
@@ -152,11 +166,25 @@ export const Documents = () => {
                                                 <div className="text-wrapper-7">Pendiente Para Revisión</div>
                                             </div>
                                         </div>
+                                        <div className="frame-25">
+                                            <div className="frame-26">
+                                                <div className="rectangle" />
+                                                <div className="frame-27">
+                                                    <div className="text-wrapper-6">Aceptar</div>
+                                                </div>
+                                            </div>
+                                            <div className="frame-26">
+                                                <div className="rectangle-4" />
+                                                <div className="frame-28">
+                                                    <div className="text-wrapper-6">Rechazar</div>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                            <div className="frame-25">
-                                <div className="frame-26">
+                            <div className="frame-12">
+                                <div className="frame-13">
                                     <div className="frame-14">
                                         <div className="frame-15">
                                             <div className="frame-16">
@@ -184,7 +212,7 @@ export const Documents = () => {
                                         <div className="frame-21">
                                             <div className="rectangle-2" />
                                             <div className="frame-22">
-                                                <div className="text-wrapper-6">Leer Más</div>
+                                                <div className="text-wrapper-6">Comentar</div>
                                             </div>
                                         </div>
                                         <div className="frame-23">
@@ -193,11 +221,25 @@ export const Documents = () => {
                                                 <div className="text-wrapper-7">Pendiente Para Revisión</div>
                                             </div>
                                         </div>
+                                        <div className="frame-25">
+                                            <div className="frame-26">
+                                                <div className="rectangle" />
+                                                <div className="frame-27">
+                                                    <div className="text-wrapper-6">Aceptar</div>
+                                                </div>
+                                            </div>
+                                            <div className="frame-26">
+                                                <div className="rectangle-4" />
+                                                <div className="frame-28">
+                                                    <div className="text-wrapper-6">Rechazar</div>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                            <div className="frame-25">
-                                <div className="frame-26">
+                            <div className="frame-12">
+                                <div className="frame-13">
                                     <div className="frame-14">
                                         <div className="frame-15">
                                             <div className="frame-16">
@@ -225,7 +267,7 @@ export const Documents = () => {
                                         <div className="frame-21">
                                             <div className="rectangle-2" />
                                             <div className="frame-22">
-                                                <div className="text-wrapper-6">Leer Más</div>
+                                                <div className="text-wrapper-6">Comentar</div>
                                             </div>
                                         </div>
                                         <div className="frame-23">
@@ -234,11 +276,25 @@ export const Documents = () => {
                                                 <div className="text-wrapper-7">Pendiente Para Revisión</div>
                                             </div>
                                         </div>
+                                        <div className="frame-25">
+                                            <div className="frame-26">
+                                                <div className="rectangle" />
+                                                <div className="frame-27">
+                                                    <div className="text-wrapper-6">Aceptar</div>
+                                                </div>
+                                            </div>
+                                            <div className="frame-26">
+                                                <div className="rectangle-4" />
+                                                <div className="frame-28">
+                                                    <div className="text-wrapper-6">Rechazar</div>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                            <div className="frame-25">
-                                <div className="frame-26">
+                            <div className="frame-12">
+                                <div className="frame-13">
                                     <div className="frame-14">
                                         <div className="frame-15">
                                             <div className="frame-16">
@@ -266,7 +322,7 @@ export const Documents = () => {
                                         <div className="frame-21">
                                             <div className="rectangle-2" />
                                             <div className="frame-22">
-                                                <div className="text-wrapper-6">Leer Más</div>
+                                                <div className="text-wrapper-6">Comentar</div>
                                             </div>
                                         </div>
                                         <div className="frame-23">
@@ -275,11 +331,25 @@ export const Documents = () => {
                                                 <div className="text-wrapper-7">Pendiente Para Revisión</div>
                                             </div>
                                         </div>
+                                        <div className="frame-25">
+                                            <div className="frame-26">
+                                                <div className="rectangle" />
+                                                <div className="frame-27">
+                                                    <div className="text-wrapper-6">Aceptar</div>
+                                                </div>
+                                            </div>
+                                            <div className="frame-26">
+                                                <div className="rectangle-4" />
+                                                <div className="frame-28">
+                                                    <div className="text-wrapper-6">Rechazar</div>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                            <div className="frame-25">
-                                <div className="frame-26">
+                            <div className="frame-12">
+                                <div className="frame-13">
                                     <div className="frame-14">
                                         <div className="frame-15">
                                             <div className="frame-16">
@@ -307,7 +377,7 @@ export const Documents = () => {
                                         <div className="frame-21">
                                             <div className="rectangle-2" />
                                             <div className="frame-22">
-                                                <div className="text-wrapper-6">Leer Más</div>
+                                                <div className="text-wrapper-6">Comentar</div>
                                             </div>
                                         </div>
                                         <div className="frame-23">
@@ -316,11 +386,25 @@ export const Documents = () => {
                                                 <div className="text-wrapper-7">Pendiente Para Revisión</div>
                                             </div>
                                         </div>
+                                        <div className="frame-25">
+                                            <div className="frame-26">
+                                                <div className="rectangle" />
+                                                <div className="frame-27">
+                                                    <div className="text-wrapper-6">Aceptar</div>
+                                                </div>
+                                            </div>
+                                            <div className="frame-26">
+                                                <div className="rectangle-4" />
+                                                <div className="frame-28">
+                                                    <div className="text-wrapper-6">Rechazar</div>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                            <div className="frame-25">
-                                <div className="frame-26">
+                            <div className="frame-12">
+                                <div className="frame-13">
                                     <div className="frame-14">
                                         <div className="frame-15">
                                             <div className="frame-16">
@@ -348,7 +432,7 @@ export const Documents = () => {
                                         <div className="frame-21">
                                             <div className="rectangle-2" />
                                             <div className="frame-22">
-                                                <div className="text-wrapper-6">Leer Más</div>
+                                                <div className="text-wrapper-6">Comentar</div>
                                             </div>
                                         </div>
                                         <div className="frame-23">
@@ -357,11 +441,25 @@ export const Documents = () => {
                                                 <div className="text-wrapper-7">Pendiente Para Revisión</div>
                                             </div>
                                         </div>
+                                        <div className="frame-25">
+                                            <div className="frame-26">
+                                                <div className="rectangle" />
+                                                <div className="frame-27">
+                                                    <div className="text-wrapper-6">Aceptar</div>
+                                                </div>
+                                            </div>
+                                            <div className="frame-26">
+                                                <div className="rectangle-4" />
+                                                <div className="frame-28">
+                                                    <div className="text-wrapper-6">Rechazar</div>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                            <div className="frame-25">
-                                <div className="frame-26">
+                            <div className="frame-12">
+                                <div className="frame-13">
                                     <div className="frame-14">
                                         <div className="frame-15">
                                             <div className="frame-16">
@@ -389,13 +487,27 @@ export const Documents = () => {
                                         <div className="frame-21">
                                             <div className="rectangle-2" />
                                             <div className="frame-22">
-                                                <div className="text-wrapper-6">Leer Más</div>
+                                                <div className="text-wrapper-6">Comentar</div>
                                             </div>
                                         </div>
                                         <div className="frame-23">
                                             <div className="rectangle-3" />
                                             <div className="frame-24">
                                                 <div className="text-wrapper-7">Pendiente Para Revisión</div>
+                                            </div>
+                                        </div>
+                                        <div className="frame-25">
+                                            <div className="frame-26">
+                                                <div className="rectangle" />
+                                                <div className="frame-27">
+                                                    <div className="text-wrapper-6">Aceptar</div>
+                                                </div>
+                                            </div>
+                                            <div className="frame-26">
+                                                <div className="rectangle-4" />
+                                                <div className="frame-28">
+                                                    <div className="text-wrapper-6">Rechazar</div>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
@@ -408,3 +520,4 @@ export const Documents = () => {
         </div>
     );
 };
+export default Pizarra;
