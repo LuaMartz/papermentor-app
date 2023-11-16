@@ -12,13 +12,9 @@ export const Documents = () => {
                                 <div className="div">
                                     <div className="LOGO-wrapper">
                                         <div className="LOGO">
-                                            <img className="icon" alt="Icon" src="icon.svg" />
-                                            <div className="text">
-                                                <div className="text-wrapper">PaperMentor</div>
-                                            </div>
+                                            <img className="icon" alt="Icon" src="LOGO.svg" />
                                         </div>
                                     </div>
-                                    <img className="line" alt="Line" src="line-1.svg" />
                                     <div className="subitems">
                                         <div className="div-2">
                                             <img className="img" alt="Presentation board" src="presentation-board.svg" />
@@ -27,7 +23,7 @@ export const Documents = () => {
                                             </div>
                                         </div>
                                         <div className="div-2">
-                                            <img className="document" alt="Document" src="document.png" />
+                                            <img className="document" alt="Document" src="document.svg" />
                                             <div className="text-2">
                                                 <div className="text-wrapper-2">Documentos</div>
                                             </div>

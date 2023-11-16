@@ -8,14 +8,11 @@ export const Reset = () => {
                 <div className="frame">
                     <div className="LOGO-wrapper">
                         <div className="LOGO">
-                            <img className="icon" alt="Icon" src="icon.svg" />
-                            <div className="text">
-                                <div className="text-wrapper">PaperMentor</div>
-                            </div>
+                            <img className="icon" alt="Icon" src="LOGO.svg" />
                         </div>
                     </div>
                     <div className="div">
-                        <img className="group" alt="Group" src="group-3.png" />
+                        <img className="group" alt="Group" src="reset.svg" />
                         <div className="frame-2">
                             <div className="div-wrapper">
                                 <div className="frame-3">
@@ -23,31 +20,27 @@ export const Reset = () => {
                                     <div className="frame-4">
                                         <div className="password">
                                             <div className="text-wrapper-3">Contraseña</div>
-                                            <div className="frame-5">
-                                                <div className="text-wrapper-4">*********</div>
-                                            </div>
+                                            <input className="frame-5" type="password" placeholder="*********" />
                                         </div>
                                         <div className="password">
                                             <div className="text-wrapper-3">Repetir Contraseña</div>
-                                            <div className="frame-5">
-                                                <div className="text-wrapper-4">*********</div>
-                                            </div>
+                                            <input className="frame-5" type="password" placeholder="*********" />
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div className="frame-6">
                                 <div className="frame-7">
-                                    <div className="rectangle" />
-                                    <div className="frame-8">
+                                    <button className="rectangle" onClick={() => { window.location.href = "/documents"; }}>
                                         <div className="text-wrapper-5">Reestablecer Contraseña</div>
-                                    </div>
+                                    </button>
                                 </div>
                                 <div className="frame-9">
-                                    <div className="rectangle-2" />
-                                    <div className="frame-10">
-                                        <div className="text-wrapper-6">Iniciar Sesión</div>
-                                    </div>
+                                    <button className="rectangle-2" onClick={() => { window.location.href = "/login"; }}>
+                                        <div className="frame-10">
+                                            <div className="text-wrapper-7">Iniciar Sesión</div>
+                                        </div>
+                                    </button>
                                 </div>
                             </div>
                         </div>

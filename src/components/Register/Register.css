@@ -237,7 +237,7 @@
     box-shadow: 0px 4px 4px #00000040;
     display: inline-flex;
     flex: 0 0 auto;
-    flex-direction: column;
+    flex-direction: center;
     gap: 10px;
     overflow: hidden;
     position: relative;

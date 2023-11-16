@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Routes, Navigate } from 'react-router-dom';
 import Onboarding from './components/Onboarding/Onboarding';
 import Login from './components/Login/Login';
 import Register from './components/Register/Register';
@@ -12,6 +12,7 @@ function App() {
     return (
         <Router>
             <Routes>
+                <Route path="/" element={<Navigate to="/onboarding" replace />} />
                 <Route path="/onboarding" element={<Onboarding />} />
                 <Route path="/login" element={<Login />} />
                 <Route path="/register" element={<Register />} />
