@@ -1,3 +1,23 @@
+:root {
+    --blue: rgba(53, 152, 219, 1);
+    --gray: rgba(45, 62, 80, 1);
+    --green: rgba(45, 204, 112, 1);
+    --montserrat-font-family: "Montserrat-Bold", Helvetica;
+    --montserrat-font-size: 16px;
+    --montserrat-font-style: normal;
+    --montserrat-font-weight: 700;
+    --montserrat-letter-spacing: 0px;
+    --montserrat-line-height: normal;
+    --roboto-font-family: "RobotoSerif-Regular", Helvetica;
+    --roboto-font-size: 12px;
+    --roboto-font-style: normal;
+    --roboto-font-weight: 400;
+    --roboto-letter-spacing: 0px;
+    --roboto-line-height: normal;
+    --white: rgba(255, 255, 255, 1);
+}
+
+/* ONBOARDING */
 .onboarding {
     background-color: #ffffff;
     display: flex;
