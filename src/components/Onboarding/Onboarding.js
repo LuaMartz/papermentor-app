@@ -4,7 +4,6 @@ import "./Onboarding.css";
 export const Onboarding = () => {
     return (
         <div className="onboarding">
-            <div className="frame-wrapper">
                 <div className="frame">
                     <div className="LOGO-wrapper">
                         <img className="LOGO" alt="Logo" src="./LOGO.svg" />
@@ -36,7 +35,6 @@ export const Onboarding = () => {
                         </div>
                     </div>
                 </div>
-            </div>
         </div >
     );
 };
