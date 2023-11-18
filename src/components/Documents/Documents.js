@@ -60,345 +60,346 @@ export const Documents = () => {
                         </div>
                     </div>
                 </div>
+                <div className="frame-11">
+                    <div className="frame-25">
+                        <div className="frame-26">
+                            <div className="frame-14">
+                                <div className="frame-15">
+                                    <div className="frame-16">
+                                        <div className="correo-wrapper">
+                                            <div className="correo">
+                                                <div className="text-wrapper-5">Titulo Documento</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className="frame-17">
+                                    <div className="frame-18">
+                                        <div className="frame-19">
+                                            <div className="correo-2">
+                                                <p className="p">
+                                                    Resumen Documento Resumen Documento Resumen Documento Resumen Documento Resumen Documento
+                                                    Resumen Documento Resumen Documento
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="frame-20">
+                                <div className="frame-21" >
+                                    <button className="rectangle-2" >
+                                        <div className="frame-22">
+                                            <div className="text-wrapper-6">Leer Más</div>
+                                        </div>
+                                    </button>
+                                </div>
+                                <button className="frame-23" >
+                                    <div className="rectangle-3" />
+                                    <div className="frame-24">
+                                        <div className="text-wrapper-7">Pendiente Para Revisión</div>
+                                    </div>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="frame-25">
+                        <div className="frame-26">
+                            <div className="frame-14">
+                                <div className="frame-15">
+                                    <div className="frame-16">
+                                        <div className="correo-wrapper">
+                                            <div className="correo">
+                                                <div className="text-wrapper-5">Titulo Documento</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className="frame-17">
+                                    <div className="frame-18">
+                                        <div className="frame-19">
+                                            <div className="correo-2">
+                                                <p className="p">
+                                                    Resumen Documento Resumen Documento Resumen Documento Resumen Documento Resumen Documento
+                                                    Resumen Documento Resumen Documento
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="frame-20">
+                                <div className="frame-21" >
+                                    <button className="rectangle-2" >
+                                        <div className="frame-22">
+                                            <div className="text-wrapper-6">Leer Más</div>
+                                        </div>
+                                    </button>
+                                </div>
+                                <button className="frame-23" >
+                                    <div className="rectangle-3" />
+                                    <div className="frame-24">
+                                        <div className="text-wrapper-7">Pendiente Para Revisión</div>
+                                    </div>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="frame-25">
+                        <div className="frame-26">
+                            <div className="frame-14">
+                                <div className="frame-15">
+                                    <div className="frame-16">
+                                        <div className="correo-wrapper">
+                                            <div className="correo">
+                                                <div className="text-wrapper-5">Titulo Documento</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className="frame-17">
+                                    <div className="frame-18">
+                                        <div className="frame-19">
+                                            <div className="correo-2">
+                                                <p className="p">
+                                                    Resumen Documento Resumen Documento Resumen Documento Resumen Documento Resumen Documento
+                                                    Resumen Documento Resumen Documento
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="frame-20">
+                                <div className="frame-21" >
+                                    <button className="rectangle-2" >
+                                        <div className="frame-22">
+                                            <div className="text-wrapper-6">Leer Más</div>
+                                        </div>
+                                    </button>
+                                </div>
+                                <button className="frame-23" >
+                                    <div className="rectangle-3" />
+                                    <div className="frame-24">
+                                        <div className="text-wrapper-7">Pendiente Para Revisión</div>
+                                    </div>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="frame-25">
+                        <div className="frame-26">
+                            <div className="frame-14">
+                                <div className="frame-15">
+                                    <div className="frame-16">
+                                        <div className="correo-wrapper">
+                                            <div className="correo">
+                                                <div className="text-wrapper-5">Titulo Documento</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className="frame-17">
+                                    <div className="frame-18">
+                                        <div className="frame-19">
+                                            <div className="correo-2">
+                                                <p className="p">
+                                                    Resumen Documento Resumen Documento Resumen Documento Resumen Documento Resumen Documento
+                                                    Resumen Documento Resumen Documento
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="frame-20">
+                                <div className="frame-21" >
+                                    <button className="rectangle-2" >
+                                        <div className="frame-22">
+                                            <div className="text-wrapper-6">Leer Más</div>
+                                        </div>
+                                    </button>
+                                </div>
+                                <button className="frame-23" >
+                                    <div className="rectangle-3" />
+                                    <div className="frame-24">
+                                        <div className="text-wrapper-7">Pendiente Para Revisión</div>
+                                    </div>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="frame-25">
+                        <div className="frame-26">
+                            <div className="frame-14">
+                                <div className="frame-15">
+                                    <div className="frame-16">
+                                        <div className="correo-wrapper">
+                                            <div className="correo">
+                                                <div className="text-wrapper-5">Titulo Documento</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className="frame-17">
+                                    <div className="frame-18">
+                                        <div className="frame-19">
+                                            <div className="correo-2">
+                                                <p className="p">
+                                                    Resumen Documento Resumen Documento Resumen Documento Resumen Documento Resumen Documento
+                                                    Resumen Documento Resumen Documento
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="frame-20">
+                                <div className="frame-21" >
+                                    <button className="rectangle-2" >
+                                        <div className="frame-22">
+                                            <div className="text-wrapper-6">Leer Más</div>
+                                        </div>
+                                    </button>
+                                </div>
+                                <button className="frame-23" >
+                                    <div className="rectangle-3" />
+                                    <div className="frame-24">
+                                        <div className="text-wrapper-7">Pendiente Para Revisión</div>
+                                    </div>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="frame-25">
+                        <div className="frame-26">
+                            <div className="frame-14">
+                                <div className="frame-15">
+                                    <div className="frame-16">
+                                        <div className="correo-wrapper">
+                                            <div className="correo">
+                                                <div className="text-wrapper-5">Titulo Documento</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className="frame-17">
+                                    <div className="frame-18">
+                                        <div className="frame-19">
+                                            <div className="correo-2">
+                                                <p className="p">
+                                                    Resumen Documento Resumen Documento Resumen Documento Resumen Documento Resumen Documento
+                                                    Resumen Documento Resumen Documento
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="frame-20">
+                                <div className="frame-21" >
+                                    <button className="rectangle-2" >
+                                        <div className="frame-22">
+                                            <div className="text-wrapper-6">Leer Más</div>
+                                        </div>
+                                    </button>
+                                </div>
+                                <button className="frame-23" >
+                                    <div className="rectangle-3" />
+                                    <div className="frame-24">
+                                        <div className="text-wrapper-7">Pendiente Para Revisión</div>
+                                    </div>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="frame-25">
+                        <div className="frame-26">
+                            <div className="frame-14">
+                                <div className="frame-15">
+                                    <div className="frame-16">
+                                        <div className="correo-wrapper">
+                                            <div className="correo">
+                                                <div className="text-wrapper-5">Titulo Documento</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className="frame-17">
+                                    <div className="frame-18">
+                                        <div className="frame-19">
+                                            <div className="correo-2">
+                                                <p className="p">
+                                                    Resumen Documento Resumen Documento Resumen Documento Resumen Documento Resumen Documento
+                                                    Resumen Documento Resumen Documento
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="frame-20">
+                                <div className="frame-21" >
+                                    <button className="rectangle-2" >
+                                        <div className="frame-22">
+                                            <div className="text-wrapper-6">Leer Más</div>
+                                        </div>
+                                    </button>
+                                </div>
+                                <button className="frame-23" >
+                                    <div className="rectangle-3" />
+                                    <div className="frame-24">
+                                        <div className="text-wrapper-7">Pendiente Para Revisión</div>
+                                    </div>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="frame-25">
+                        <div className="frame-26">
+                            <div className="frame-14">
+                                <div className="frame-15">
+                                    <div className="frame-16">
+                                        <div className="correo-wrapper">
+                                            <div className="correo">
+                                                <div className="text-wrapper-5">Titulo Documento</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className="frame-17">
+                                    <div className="frame-18">
+                                        <div className="frame-19">
+                                            <div className="correo-2">
+                                                <p className="p">
+                                                    Resumen Documento Resumen Documento Resumen Documento Resumen Documento Resumen Documento
+                                                    Resumen Documento Resumen Documento
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="frame-20">
+                                <div className="frame-21" >
+                                    <button className="rectangle-2" >
+                                        <div className="frame-22">
+                                            <div className="text-wrapper-6">Leer Más</div>
+                                        </div>
+                                    </button>
+                                </div>
+                                <button className="frame-23" >
+                                    <div className="rectangle-3" />
+                                    <div className="frame-24">
+                                        <div className="text-wrapper-7">Pendiente Para Revisión</div>
+                                    </div>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <div className="frame-11">
-                <div className="frame-25">
-                    <div className="frame-26">
-                        <div className="frame-14">
-                            <div className="frame-15">
-                                <div className="frame-16">
-                                    <div className="correo-wrapper">
-                                        <div className="correo">
-                                            <div className="text-wrapper-5">Titulo Documento</div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div className="frame-17">
-                                <div className="frame-18">
-                                    <div className="frame-19">
-                                        <div className="correo-2">
-                                            <p className="p">
-                                                Resumen Documento Resumen Documento Resumen Documento Resumen Documento Resumen Documento
-                                                Resumen Documento Resumen Documento
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="frame-20">
-                            <div className="frame-21" >
-                                <button className="rectangle-2" >
-                                    <div className="frame-22">
-                                        <div className="text-wrapper-6">Leer Más</div>
-                                    </div>
-                                </button>
-                            </div>
-                            <button className="frame-23" >
-                                <div className="rectangle-3" />
-                                <div className="frame-24">
-                                    <div className="text-wrapper-7">Pendiente Para Revisión</div>
-                                </div>
-                            </button>
-                        </div>
-                    </div>
-                </div>
-                <div className="frame-25">
-                    <div className="frame-26">
-                        <div className="frame-14">
-                            <div className="frame-15">
-                                <div className="frame-16">
-                                    <div className="correo-wrapper">
-                                        <div className="correo">
-                                            <div className="text-wrapper-5">Titulo Documento</div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div className="frame-17">
-                                <div className="frame-18">
-                                    <div className="frame-19">
-                                        <div className="correo-2">
-                                            <p className="p">
-                                                Resumen Documento Resumen Documento Resumen Documento Resumen Documento Resumen Documento
-                                                Resumen Documento Resumen Documento
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="frame-20">
-                            <div className="frame-21" >
-                                <button className="rectangle-2" >
-                                    <div className="frame-22">
-                                        <div className="text-wrapper-6">Leer Más</div>
-                                    </div>
-                                </button>
-                            </div>
-                            <button className="frame-23" >
-                                <div className="rectangle-3" />
-                                <div className="frame-24">
-                                    <div className="text-wrapper-7">Pendiente Para Revisión</div>
-                                </div>
-                            </button>
-                        </div>
-                    </div>
-                </div>
-                <div className="frame-25">
-                    <div className="frame-26">
-                        <div className="frame-14">
-                            <div className="frame-15">
-                                <div className="frame-16">
-                                    <div className="correo-wrapper">
-                                        <div className="correo">
-                                            <div className="text-wrapper-5">Titulo Documento</div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div className="frame-17">
-                                <div className="frame-18">
-                                    <div className="frame-19">
-                                        <div className="correo-2">
-                                            <p className="p">
-                                                Resumen Documento Resumen Documento Resumen Documento Resumen Documento Resumen Documento
-                                                Resumen Documento Resumen Documento
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="frame-20">
-                            <div className="frame-21" >
-                                <button className="rectangle-2" >
-                                    <div className="frame-22">
-                                        <div className="text-wrapper-6">Leer Más</div>
-                                    </div>
-                                </button>
-                            </div>
-                            <button className="frame-23" >
-                                <div className="rectangle-3" />
-                                <div className="frame-24">
-                                    <div className="text-wrapper-7">Pendiente Para Revisión</div>
-                                </div>
-                            </button>
-                        </div>
-                    </div>
-                </div>
-                <div className="frame-25">
-                    <div className="frame-26">
-                        <div className="frame-14">
-                            <div className="frame-15">
-                                <div className="frame-16">
-                                    <div className="correo-wrapper">
-                                        <div className="correo">
-                                            <div className="text-wrapper-5">Titulo Documento</div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div className="frame-17">
-                                <div className="frame-18">
-                                    <div className="frame-19">
-                                        <div className="correo-2">
-                                            <p className="p">
-                                                Resumen Documento Resumen Documento Resumen Documento Resumen Documento Resumen Documento
-                                                Resumen Documento Resumen Documento
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="frame-20">
-                            <div className="frame-21" >
-                                <button className="rectangle-2" >
-                                    <div className="frame-22">
-                                        <div className="text-wrapper-6">Leer Más</div>
-                                    </div>
-                                </button>
-                            </div>
-                            <button className="frame-23" >
-                                <div className="rectangle-3" />
-                                <div className="frame-24">
-                                    <div className="text-wrapper-7">Pendiente Para Revisión</div>
-                                </div>
-                            </button>
-                        </div>
-                    </div>
-                </div>
-                <div className="frame-25">
-                    <div className="frame-26">
-                        <div className="frame-14">
-                            <div className="frame-15">
-                                <div className="frame-16">
-                                    <div className="correo-wrapper">
-                                        <div className="correo">
-                                            <div className="text-wrapper-5">Titulo Documento</div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div className="frame-17">
-                                <div className="frame-18">
-                                    <div className="frame-19">
-                                        <div className="correo-2">
-                                            <p className="p">
-                                                Resumen Documento Resumen Documento Resumen Documento Resumen Documento Resumen Documento
-                                                Resumen Documento Resumen Documento
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="frame-20">
-                            <div className="frame-21" >
-                                <button className="rectangle-2" >
-                                    <div className="frame-22">
-                                        <div className="text-wrapper-6">Leer Más</div>
-                                    </div>
-                                </button>
-                            </div>
-                            <button className="frame-23" >
-                                <div className="rectangle-3" />
-                                <div className="frame-24">
-                                    <div className="text-wrapper-7">Pendiente Para Revisión</div>
-                                </div>
-                            </button>
-                        </div>
-                    </div>
-                </div>
-                <div className="frame-25">
-                    <div className="frame-26">
-                        <div className="frame-14">
-                            <div className="frame-15">
-                                <div className="frame-16">
-                                    <div className="correo-wrapper">
-                                        <div className="correo">
-                                            <div className="text-wrapper-5">Titulo Documento</div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div className="frame-17">
-                                <div className="frame-18">
-                                    <div className="frame-19">
-                                        <div className="correo-2">
-                                            <p className="p">
-                                                Resumen Documento Resumen Documento Resumen Documento Resumen Documento Resumen Documento
-                                                Resumen Documento Resumen Documento
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="frame-20">
-                            <div className="frame-21" >
-                                <button className="rectangle-2" >
-                                    <div className="frame-22">
-                                        <div className="text-wrapper-6">Leer Más</div>
-                                    </div>
-                                </button>
-                            </div>
-                            <button className="frame-23" >
-                                <div className="rectangle-3" />
-                                <div className="frame-24">
-                                    <div className="text-wrapper-7">Pendiente Para Revisión</div>
-                                </div>
-                            </button>
-                        </div>
-                    </div>
-                </div>
-                <div className="frame-25">
-                    <div className="frame-26">
-                        <div className="frame-14">
-                            <div className="frame-15">
-                                <div className="frame-16">
-                                    <div className="correo-wrapper">
-                                        <div className="correo">
-                                            <div className="text-wrapper-5">Titulo Documento</div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div className="frame-17">
-                                <div className="frame-18">
-                                    <div className="frame-19">
-                                        <div className="correo-2">
-                                            <p className="p">
-                                                Resumen Documento Resumen Documento Resumen Documento Resumen Documento Resumen Documento
-                                                Resumen Documento Resumen Documento
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="frame-20">
-                            <div className="frame-21" >
-                                <button className="rectangle-2" >
-                                    <div className="frame-22">
-                                        <div className="text-wrapper-6">Leer Más</div>
-                                    </div>
-                                </button>
-                            </div>
-                            <button className="frame-23" >
-                                <div className="rectangle-3" />
-                                <div className="frame-24">
-                                    <div className="text-wrapper-7">Pendiente Para Revisión</div>
-                                </div>
-                            </button>
-                        </div>
-                    </div>
-                </div>
-                <div className="frame-25">
-                    <div className="frame-26">
-                        <div className="frame-14">
-                            <div className="frame-15">
-                                <div className="frame-16">
-                                    <div className="correo-wrapper">
-                                        <div className="correo">
-                                            <div className="text-wrapper-5">Titulo Documento</div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div className="frame-17">
-                                <div className="frame-18">
-                                    <div className="frame-19">
-                                        <div className="correo-2">
-                                            <p className="p">
-                                                Resumen Documento Resumen Documento Resumen Documento Resumen Documento Resumen Documento
-                                                Resumen Documento Resumen Documento
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="frame-20">
-                            <div className="frame-21" >
-                                <button className="rectangle-2" >
-                                    <div className="frame-22">
-                                        <div className="text-wrapper-6">Leer Más</div>
-                                    </div>
-                                </button>
-                            </div>
-                            <button className="frame-23" >
-                                <div className="rectangle-3" />
-                                <div className="frame-24">
-                                    <div className="text-wrapper-7">Pendiente Para Revisión</div>
-                                </div>
-                            </button>
-                        </div>
-                    </div>
-                </div>
-            </div>
+
         </div>
     );
 };
